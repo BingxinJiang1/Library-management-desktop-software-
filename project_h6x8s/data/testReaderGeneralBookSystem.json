@@ -1,0 +1,17 @@
+{"book list": [
+    {
+        "book price": 10,
+        "book stock": 5,
+        "book name": "BC travel Guide"
+    },
+    {
+        "book price": 15,
+        "book stock": 4,
+        "book name": "MATH Homework"
+    },
+    {
+        "book price": 20,
+        "book stock": 3,
+        "book name": "CPSC Textbook"
+    }
+]}
